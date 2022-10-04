@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6685f6,100:8570ee&height=250&section=header&text=Hi,%20I%27m%20Tamer&fontSize=70&fontColor=19233f&animation=fadeIn)
 
 <!--
 **dqos/dqos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
