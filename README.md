@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/dqos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dqos&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqos&theme=noctis_minimus&layout=compact" />
-</a>
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni)
