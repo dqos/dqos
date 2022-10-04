@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6685f6,100:8570ee&height=250&section=header&text=Hi,%20I%27m%20Tamer&fontSize=70&fontColor=19233f&animation=fadeIn)
 
 <!--
