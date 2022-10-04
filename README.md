@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dqos&theme=shades-of-purple)
+![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dqos&theme=shades-of-purple)
