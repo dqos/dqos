@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dqos&theme=shades-of-purple)
-![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dqos&theme=shades-of-purple&layout=compact)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dqos&theme=shades-of-purple" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqos&theme=shades-of-purple&layout=compact" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
