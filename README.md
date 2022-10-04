@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ![Metrics](https://metrics.lecoq.io/dqos)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6685f6,100:8570ee&height=250&section=footer)
