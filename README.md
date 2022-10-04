@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dqos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dqos&theme=shades-of-purple" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dqos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqos&theme=shades-of-purple&layout=compact" />
 </a>
