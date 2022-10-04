@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/dqos)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6685f6,100:8570ee&height=250&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6685f6,100:8570ee&height=150&section=footer)
