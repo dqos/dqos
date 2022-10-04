@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/dqos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dqos&theme=shades-of-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dqos&title_color=6685f6&text_color=8570ee&bg_color=19233f&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/dqos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqos&theme=shades-of-purple&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqos&title_color=6685f6&text_color=8570ee&bg_color=19233f&layout=compact&show_icons=true&hide_border=true" />
 </a
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ![Metrics](https://metrics.lecoq.io/dqos)
 
